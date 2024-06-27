@@ -52,6 +52,6 @@ https://github.com/yan-trindade/arduino/assets/67748194/ed350b5b-9454-4013-88ae-
 | 3           | Resistor 100R 2W   |    R$1,20 |R$3,60 |
 | 10            | Jumpers macho-macho |   R$0,70 |R$7,00 |
 | 1            | LED 5mm vermelho |   R$0,50 |R$0,50 |
-| 2            | Arduino UNO |    Membro do grupo possuía | ----- |
+| 1           | Arduino UNO |    Membro do grupo possuía | ----- |
 |             | Valor total:  |    |R$50,40 |
 
